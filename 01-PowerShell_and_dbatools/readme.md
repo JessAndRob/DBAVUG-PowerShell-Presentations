@@ -1,5 +1,9 @@
 # Introduction to PowerShell via dbatools
 
+> [!IMPORTANT]
+> All the demos from this session are available for you to test out within a devcontainer.
+> Demos: [JessAndRob/dbatools_presentation]https://github.com/JessAndRob/dbatools_presentation
+
 Ready to dive into PowerShell but not sure where to start? Join us for an accessible introduction to PowerShell by completing database administration tasks. This session is designed for DBAs and data professionals who want to harness the power of automation but may feel intimidated by scripting.
 
 In the first half of this session, we'll cover PowerShell fundamentals that every DBA should know. You'll learn about cmdlets, the pipeline, objects, and basic syntax through practical examples that relate directly to your daily work.
