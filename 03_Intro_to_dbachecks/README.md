@@ -1,4 +1,4 @@
-#Introduction to dbachecks
+# Introduction to dbachecks
 
 Dbachecks is a powershell module by and for DBAs and data professionals who are interested in automating their routine database checks. This module is a set of cmdlets built using the dbatools and pester modules that perform various standard checks on your databases - think of the kinds of checks you may be performing manually every single day, and how much time you could save if they were automated!
 
